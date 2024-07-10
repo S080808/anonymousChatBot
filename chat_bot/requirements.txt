@@ -1,0 +1,7 @@
+aiogram==3.4.1
+aiosqlite==0.20.0
+pydantic-settings==2.2.1
+sqlalchemy==2.0.30
+pytest==8.2.0
+pytest-asyncio==0.23.6
+aiogram-tests==1.0.3
